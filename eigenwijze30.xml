@@ -11,7 +11,13 @@
     <lastBuildDate>Sun, 05 Oct 2025 16:48:45 GMT</lastBuildDate>
     <pubDate>Sun, 05 Oct 2025 16:48:45 GMT</pubDate>
     <atom:link href="https://eigenwijze30.nl/eigenwijze30.xml" rel="self" type="application/rss+xml"/>
-    
+
+    <image>
+        <url>https://krulkrul.github.io/eigenwijze30-podcast/podcast-cover.jpg</url>
+        <title>De Eigenwijze 30</title>
+        <link>https://eigenwijze30.nl</link>
+    </image>
+     
     <itunes:author>Eigenwijze 30</itunes:author>
     <itunes:summary>De Eigenwijze 30 - Een wekelijks radioprogramma met de beste muziek</itunes:summary>
     <itunes:owner>
@@ -22,6 +28,7 @@
     <itunes:category text="Music"/>
 
     <itunes:image href="https://krulkrul.github.io/eigenwijze30-podcast/podcast-cover.jpg"/>
+
      
     <item>
         <title>De Eigenwijze 30 - Week 39 (29-09-2025)</title>
