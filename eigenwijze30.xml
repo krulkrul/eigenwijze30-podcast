@@ -21,6 +21,8 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
 
+    <itunes:image href="https://krulkrul.github.io/eigenwijze30-podcast/podcast-cover.jpg"/>
+     
     <item>
         <title>De Eigenwijze 30 - Week 39 (29-09-2025)</title>
         <description>Eigenwijze 30 uitzending van week 39</description>
