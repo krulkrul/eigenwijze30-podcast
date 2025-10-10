@@ -8,8 +8,8 @@
     <link>https://eigenwijze30.nl</link>
     <language>nl</language>
     <copyright>Copyright 2025 Eigenwijze 30</copyright>
-    <lastBuildDate>Fri, 10 Oct 2025 14:03:46 GMT</lastBuildDate>
-    <pubDate>Fri, 10 Oct 2025 14:03:46 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Oct 2025 14:15:04 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Oct 2025 14:15:04 GMT</pubDate>
     <atom:link href="https://krulkrul.github.io/eigenwijze30-podcast/eigenwijze30.xml" rel="self" type="application/rss+xml"/>
     
     <image>
@@ -27,6 +27,30 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
     <itunes:image href="https://krulkrul.github.io/eigenwijze30-podcast/podcast-cover.jpg"/>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 39 (29-09-2025)</title>
+        <description>Eigenwijze 30 uitzending van week 39, 2025</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_25-39.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_25-39.mp3</guid>
+        <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_25-39.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 39, 2025</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 39 (29-09-2025)</title>
+        <description>Eigenwijze 30 uitzending van week 39, 2025</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_25-36.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_25-36.mp3</guid>
+        <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_25-36.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 39, 2025</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 
     <item>
         <title>De Eigenwijze 30 - Week 24 (09-06-2025)</title>
