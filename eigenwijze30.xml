@@ -8,8 +8,8 @@
     <link>https://eigenwijze30.nl</link>
     <language>nl</language>
     <copyright>Copyright 2025 Eigenwijze 30</copyright>
-    <lastBuildDate>Fri, 10 Oct 2025 15:12:47 GMT</lastBuildDate>
-    <pubDate>Fri, 10 Oct 2025 15:12:47 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 15:57:00 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2025 15:57:00 GMT</pubDate>
     <atom:link href="https://krulkrul.github.io/eigenwijze30-podcast/eigenwijze30.xml" rel="self" type="application/rss+xml"/>
     
     <image>
@@ -29,6 +29,18 @@
     <itunes:image href="https://krulkrul.github.io/eigenwijze30-podcast/podcast-cover.jpg"/>
 
     <item>
+        <title>De Eigenwijze 30 - Week 41 (13-10-2025)</title>
+        <description>Eigenwijze 30 uitzending van week 41, 2025</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_25-41.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_25-41.mp3</guid>
+        <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_25-41.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 41, 2025</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
         <title>De Eigenwijze 30 - Week 39 (29-09-2025)</title>
         <description>Eigenwijze 30 uitzending van week 39, 2025</description>
         <link>https://eigenwijze30.nl/mp3/Eigenwijze30_25-39.mp3</link>
@@ -37,18 +49,6 @@
         <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_25-39.mp3" type="audio/mpeg"/>
         <itunes:author>Eigenwijze 30</itunes:author>
         <itunes:summary>Eigenwijze 30 uitzending van week 39, 2025</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 36 (08-09-2025)</title>
-        <description>Eigenwijze 30 uitzending van week 36, 2025</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_25-36.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_25-36.mp3</guid>
-        <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_25-36.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 36, 2025</itunes:summary>
         <itunes:explicit>no</itunes:explicit>
     </item>
 
