@@ -8,8 +8,8 @@
     <link>https://eigenwijze30.nl</link>
     <language>nl</language>
     <copyright>Copyright 2026 Eigenwijze 30</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 12:06:04 GMT</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 12:06:04 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 12:19:28 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 12:19:28 GMT</pubDate>
     <atom:link href="https://krulkrul.github.io/eigenwijze30-podcast/eigenwijze30.xml" rel="self" type="application/rss+xml"/>
     
     <image>
@@ -49,6 +49,18 @@
         <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-25.mp3" type="audio/mpeg"/>
         <itunes:author>Eigenwijze 30</itunes:author>
         <itunes:summary>Eigenwijze 30 uitzending van week 25, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 23 (01-06-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 23, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-23.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-23.mp3</guid>
+        <pubDate>Sun, 31 May 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-23.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 23, 2026</itunes:summary>
         <itunes:explicit>no</itunes:explicit>
     </item>
 
@@ -1213,18 +1225,6 @@
         <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-25.mp3" type="audio/mpeg"/>
         <itunes:author>Eigenwijze 30</itunes:author>
         <itunes:summary>Eigenwijze 30 uitzending van week 25, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 24 (10-06-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 24, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-24.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-24.mp3</guid>
-        <pubDate>Sun, 09 Jun 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-24.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 24, 2024</itunes:summary>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
