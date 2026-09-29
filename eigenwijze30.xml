@@ -8,8 +8,8 @@
     <link>https://eigenwijze30.nl</link>
     <language>nl</language>
     <copyright>Copyright 2026 Eigenwijze 30</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 12:19:28 GMT</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 12:19:28 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:02:36 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 21:02:36 GMT</pubDate>
     <atom:link href="https://krulkrul.github.io/eigenwijze30-podcast/eigenwijze30.xml" rel="self" type="application/rss+xml"/>
     
     <image>
@@ -29,11 +29,143 @@
     <itunes:image href="https://krulkrul.github.io/eigenwijze30-podcast/podcast-cover.jpg"/>
 
     <item>
-        <title>De Eigenwijze 30 - Week 28 (13-07-2026)</title>
+        <title>De Eigenwijze 30 - Week 39 (21-09-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 39, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-39.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-39.mp3</guid>
+        <pubDate>Sun, 20 Sep 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-39.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 39, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 38 (14-09-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 38, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-38.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-38.mp3</guid>
+        <pubDate>Sun, 13 Sep 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-38.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 38, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 37 (07-09-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 37, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-37.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-37.mp3</guid>
+        <pubDate>Sun, 06 Sep 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-37.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 37, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 36 (31-08-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 36, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-36.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-36.mp3</guid>
+        <pubDate>Sun, 30 Aug 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-36.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 36, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 35 (24-08-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 35, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-35.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-35.mp3</guid>
+        <pubDate>Sun, 23 Aug 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-35.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 35, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 34 (17-08-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 34, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-34.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-34.mp3</guid>
+        <pubDate>Sun, 16 Aug 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-34.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 34, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 33 (10-08-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 33, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-33.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-33.mp3</guid>
+        <pubDate>Sun, 09 Aug 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-33.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 33, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 32 (03-08-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 32, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-32.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-32.mp3</guid>
+        <pubDate>Sun, 02 Aug 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-32.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 32, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 31 (27-07-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 31, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-31.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-31.mp3</guid>
+        <pubDate>Sun, 26 Jul 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-31.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 31, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 30 (20-07-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 30, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-30.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-30.mp3</guid>
+        <pubDate>Sun, 19 Jul 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-30.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 30, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 29 (13-07-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 29, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-29.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-29.mp3</guid>
+        <pubDate>Sun, 12 Jul 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-29.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 29, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 28 (06-07-2026)</title>
         <description>Eigenwijze 30 uitzending van week 28, 2026</description>
         <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-28.mp3</link>
         <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-28.mp3</guid>
-        <pubDate>Sun, 12 Jul 2026 22:00:00 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 22:00:00 GMT</pubDate>
         <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-28.mp3" type="audio/mpeg"/>
         <itunes:author>Eigenwijze 30</itunes:author>
         <itunes:summary>Eigenwijze 30 uitzending van week 28, 2026</itunes:summary>
@@ -41,14 +173,50 @@
     </item>
 
     <item>
-        <title>De Eigenwijze 30 - Week 25 (22-06-2026)</title>
+        <title>De Eigenwijze 30 - Week 27 (29-06-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 27, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-27.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-27.mp3</guid>
+        <pubDate>Sun, 28 Jun 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-27.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 27, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 26 (22-06-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 26, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-26.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-26.mp3</guid>
+        <pubDate>Sun, 21 Jun 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-26.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 26, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 25 (15-06-2026)</title>
         <description>Eigenwijze 30 uitzending van week 25, 2026</description>
         <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-25.mp3</link>
         <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-25.mp3</guid>
-        <pubDate>Sun, 21 Jun 2026 22:00:00 GMT</pubDate>
+        <pubDate>Sun, 14 Jun 2026 22:00:00 GMT</pubDate>
         <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-25.mp3" type="audio/mpeg"/>
         <itunes:author>Eigenwijze 30</itunes:author>
         <itunes:summary>Eigenwijze 30 uitzending van week 25, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 24 (08-06-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 24, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-24.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-24.mp3</guid>
+        <pubDate>Sun, 07 Jun 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-24.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 24, 2026</itunes:summary>
         <itunes:explicit>no</itunes:explicit>
     </item>
 
@@ -61,6 +229,42 @@
         <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-23.mp3" type="audio/mpeg"/>
         <itunes:author>Eigenwijze 30</itunes:author>
         <itunes:summary>Eigenwijze 30 uitzending van week 23, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 22 (25-05-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 22, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-22.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-22.mp3</guid>
+        <pubDate>Sun, 24 May 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-22.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 22, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 21 (18-05-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 21, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-21.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-21.mp3</guid>
+        <pubDate>Sun, 17 May 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-21.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 21, 2026</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>De Eigenwijze 30 - Week 20 (11-05-2026)</title>
+        <description>Eigenwijze 30 uitzending van week 20, 2026</description>
+        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_26-20.mp3</link>
+        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_26-20.mp3</guid>
+        <pubDate>Sun, 10 May 2026 22:00:00 GMT</pubDate>
+        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_26-20.mp3" type="audio/mpeg"/>
+        <itunes:author>Eigenwijze 30</itunes:author>
+        <itunes:summary>Eigenwijze 30 uitzending van week 20, 2026</itunes:summary>
         <itunes:explicit>no</itunes:explicit>
     </item>
 
@@ -1021,210 +1225,6 @@
         <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-42.mp3" type="audio/mpeg"/>
         <itunes:author>Eigenwijze 30</itunes:author>
         <itunes:summary>Eigenwijze 30 uitzending van week 42, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 41 (07-10-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 41, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-41.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-41.mp3</guid>
-        <pubDate>Sun, 06 Oct 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-41.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 41, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 40 (30-09-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 40, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-40.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-40.mp3</guid>
-        <pubDate>Sun, 29 Sep 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-40.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 40, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 39 (23-09-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 39, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-39.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-39.mp3</guid>
-        <pubDate>Sun, 22 Sep 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-39.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 39, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 38 (16-09-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 38, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-38.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-38.mp3</guid>
-        <pubDate>Sun, 15 Sep 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-38.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 38, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 37 (09-09-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 37, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-37.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-37.mp3</guid>
-        <pubDate>Sun, 08 Sep 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-37.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 37, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 36 (02-09-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 36, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-36.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-36.mp3</guid>
-        <pubDate>Sun, 01 Sep 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-36.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 36, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 35 (26-08-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 35, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-35.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-35.mp3</guid>
-        <pubDate>Sun, 25 Aug 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-35.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 35, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 34 (19-08-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 34, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-34.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-34.mp3</guid>
-        <pubDate>Sun, 18 Aug 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-34.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 34, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 33 (12-08-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 33, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-33.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-33.mp3</guid>
-        <pubDate>Sun, 11 Aug 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-33.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 33, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 32 (05-08-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 32, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-32.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-32.mp3</guid>
-        <pubDate>Sun, 04 Aug 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-32.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 32, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 31 (29-07-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 31, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-31.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-31.mp3</guid>
-        <pubDate>Sun, 28 Jul 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-31.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 31, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 30 (22-07-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 30, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-30.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-30.mp3</guid>
-        <pubDate>Sun, 21 Jul 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-30.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 30, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 29 (15-07-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 29, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-29.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-29.mp3</guid>
-        <pubDate>Sun, 14 Jul 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-29.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 29, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 28 (08-07-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 28, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-28.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-28.mp3</guid>
-        <pubDate>Sun, 07 Jul 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-28.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 28, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 27 (01-07-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 27, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-27.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-27.mp3</guid>
-        <pubDate>Sun, 30 Jun 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-27.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 27, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 26 (24-06-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 26, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-26.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-26.mp3</guid>
-        <pubDate>Sun, 23 Jun 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-26.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 26, 2024</itunes:summary>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
-
-    <item>
-        <title>De Eigenwijze 30 - Week 25 (17-06-2024)</title>
-        <description>Eigenwijze 30 uitzending van week 25, 2024</description>
-        <link>https://eigenwijze30.nl/mp3/Eigenwijze30_24-25.mp3</link>
-        <guid isPermaLink="true">https://eigenwijze30.nl/mp3/Eigenwijze30_24-25.mp3</guid>
-        <pubDate>Sun, 16 Jun 2024 22:00:00 GMT</pubDate>
-        <enclosure url="https://eigenwijze30.nl/mp3/Eigenwijze30_24-25.mp3" type="audio/mpeg"/>
-        <itunes:author>Eigenwijze 30</itunes:author>
-        <itunes:summary>Eigenwijze 30 uitzending van week 25, 2024</itunes:summary>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
